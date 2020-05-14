@@ -2,4 +2,4 @@
 https://github.com/odrodrig/DevOps101-Git-intro
 https://github.com/IBMAppModernization/helm101
 https://github.com/IBMAppModernization/app-modernization-cicd-lab-iks
-https://github.com/IBMAppModernization/app-modernization-cicd-lab-iks
+https://github.com/mlangbehn/DevOps-testing101

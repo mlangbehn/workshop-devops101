@@ -1,0 +1,5 @@
+* [generatedContent/DevOps101-Git-intro](generatedContent/DevOps101-Git-intro/README.md)
+* [generatedContent/helm101](generatedContent/helm101/README.md)
+    * [generatedContent/helm101/guestbook](generatedContent/helm101/guestbook/README.md)
+* [generatedContent/app-modernization-cicd-lab-iks](generatedContent/app-modernization-cicd-lab-iks/README.md)
+* [generatedContent/DevOps-testing101](generatedContent/DevOps-testing101/README.md)
